@@ -1,0 +1,6 @@
+build-*/
+build/
+*.pro.user
+*.o
+debug/
+release/.qtcreator/
